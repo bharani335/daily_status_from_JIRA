@@ -1,0 +1,5 @@
+bs4
+dotenv
+jira
+gspread
+oauth2client
