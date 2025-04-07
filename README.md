@@ -5,6 +5,21 @@ Tired of manually compiling daily status updates from JIRA? This project automat
 
 This project is designed to run on AWS Lambda and can be triggered periodically via a cron job. It sends daily status updates or reminders via email, based on user preferences maintained in a Google Sheet.
 
+Status mail:
+
+![Status](https://github.com/user-attachments/assets/2f1e1e80-8de4-48a6-9c37-ab4c6c5ffc6d)
+
+
+Reminder mail:
+
+![Reminder](https://github.com/user-attachments/assets/6e9f7ca0-572e-423c-b0ad-ce290617b2ed)
+
+
+Warning mail:
+
+![Warning](https://github.com/user-attachments/assets/67756909-4526-4136-8df9-aa6ec82fcc8d)
+
+
 ## Features ✨
 - Fetches tasks from JIRA based on filters or queries.
 - Organizes tasks into a structured daily status format.
